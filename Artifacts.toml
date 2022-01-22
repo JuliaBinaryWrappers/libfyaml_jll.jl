@@ -1,0 +1,127 @@
+[[libfyaml]]
+arch = "aarch64"
+git-tree-sha1 = "370e57e64f3283eedf73a6311b7334ca2bbe3a16"
+os = "macos"
+
+    [[libfyaml.download]]
+    sha256 = "3b8f72fd7b0a76ce811fbcb3c50117482f6f4ed6fce0ed16a3246a09f8973420"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.aarch64-apple-darwin.tar.gz"
+[[libfyaml]]
+arch = "aarch64"
+git-tree-sha1 = "1b5753a6e80d5993514566e537660675871bf24b"
+libc = "glibc"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "5623c7d78037f25280b7584da067351ccf6aa308617a28042a456b1ec3033bea"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.aarch64-linux-gnu.tar.gz"
+[[libfyaml]]
+arch = "aarch64"
+git-tree-sha1 = "1eef51283dbe63cabc5a8e846ba1cba0b53cc856"
+libc = "musl"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "ec0b31ac5b2cf8416e6cdfb6c5a9dba9f3ecf4d6721f774bd90c78fdc82b1d42"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.aarch64-linux-musl.tar.gz"
+[[libfyaml]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "16e58c6eeeae93aefbd9373e1b07f7d197afd3d2"
+libc = "glibc"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "1a12f7ed38cab7312fb0c2275af421074b7e0fcd8c8f4f659b1f7680b315609b"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.armv6l-linux-gnueabihf.tar.gz"
+[[libfyaml]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "9db142703a5d5d90d7bf9801e6e23b72cba7f4b7"
+libc = "musl"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "b268d4153f429676fd9fcada822d9d9361d9197aeaabe61f074b03f6f3ab4c0b"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.armv6l-linux-musleabihf.tar.gz"
+[[libfyaml]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "93b9a7f3e58f4d3793778770ffe8e41807f4230c"
+libc = "glibc"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "b9d0bcbb1a96c83aa2e7b75bd8c5ac511be004198ecd2cf3f6672f11c43b7a82"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.armv7l-linux-gnueabihf.tar.gz"
+[[libfyaml]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2570bcb38a750a1c885ee4d97d30b011735b0ac0"
+libc = "musl"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "cbb32cb7f00f6c4d6a5c9e7edddcbd5e1da85bd1cd924847a362fa24c4c89710"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.armv7l-linux-musleabihf.tar.gz"
+[[libfyaml]]
+arch = "i686"
+git-tree-sha1 = "3f73e5ac0a879b022ce286bfaa90a87f2dab3cbe"
+libc = "glibc"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "9607fa1990f286aaa9705be5a29b08a691550c97aca151de4da425b9736cd252"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.i686-linux-gnu.tar.gz"
+[[libfyaml]]
+arch = "i686"
+git-tree-sha1 = "0e653ec211c2d935bc2f7001c2a0f15efc544309"
+libc = "musl"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "0c26b96a6ddace4e867580ba8602765177f10df3fa66c665bab7518ef28425e0"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.i686-linux-musl.tar.gz"
+[[libfyaml]]
+arch = "powerpc64le"
+git-tree-sha1 = "cf01ad971e49b028d636b07f174beef1d33bc26b"
+libc = "glibc"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "ec4790ed704bec5c3079b17085069b4c5280e2ab0834c11f8e020134bf136a19"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.powerpc64le-linux-gnu.tar.gz"
+[[libfyaml]]
+arch = "x86_64"
+git-tree-sha1 = "e988d67733a15cec33de23be170e1f0dc092371b"
+os = "macos"
+
+    [[libfyaml.download]]
+    sha256 = "2afc512daad1f5dea62a25ccb82ddd3c5d2e0b3dd85b7eed4fdfe0637aae6d03"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.x86_64-apple-darwin.tar.gz"
+[[libfyaml]]
+arch = "x86_64"
+git-tree-sha1 = "78cf45f3983c5d44656061de89f7039bf2eb153d"
+libc = "glibc"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "81c7122c914a189a729e2993f8c3bed53dc556a6439ea6b403aa2b67d77c2967"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.x86_64-linux-gnu.tar.gz"
+[[libfyaml]]
+arch = "x86_64"
+git-tree-sha1 = "286faed0a4a89b4af6815b81eb15d3a62c15a801"
+libc = "musl"
+os = "linux"
+
+    [[libfyaml.download]]
+    sha256 = "8a261fb3504dcadb11abe9587a20eed56b7d0015eb07ac842a44a6d7465193c3"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.x86_64-linux-musl.tar.gz"
+[[libfyaml]]
+arch = "x86_64"
+git-tree-sha1 = "7ba400b6004c7c42de5406b0d80a54554ebbbbfe"
+os = "freebsd"
+
+    [[libfyaml.download]]
+    sha256 = "3104b32f429f800285cfc0bc35479617dd424cb8a8fd807309efa4e72ce1f037"
+    url = "https://github.com/JuliaBinaryWrappers/libfyaml_jll.jl/releases/download/libfyaml-v0.7.12+0/libfyaml.v0.7.12.x86_64-unknown-freebsd.tar.gz"
